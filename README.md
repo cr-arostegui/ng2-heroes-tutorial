@@ -1,2 +1,2 @@
 # ng2-tutorial
-ng2-tutorial - server.
+- ng2-tutorial - server.
