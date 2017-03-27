@@ -6,7 +6,9 @@ This project was done based in TUTORIAL: TOUR OF HEROES (https://angular.io/docs
 
 ## Prerequisites
 Node v7.7.2
+
 npm v4.1.2
+
 MongoDB PORT 27017
 
 ## Development server back-end
