@@ -2,8 +2,18 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.25.5.
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project was done based in TUTORIAL: TOUR OF HEROES (https://angular.io/docs/ts/latest/tutorial/)
+
+## Prerequisites
+Node v7.7.2
+npm v4.1.2
+MongoDB PORT 27017
+
+## Development server back-end
+Run `DB_HOST=localhost node server/src/server.js`. You must see a console log about the PORT:
+
+## Development server front-end
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files and should connect with the backend automatically.
 
 ## Code scaffolding
 
